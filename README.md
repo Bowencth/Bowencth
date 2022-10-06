@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Bowencth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Bowen 
+- 👀 I’m interested in basketball,engineering and reading
+- 🌱 I’m currently learning python and several engineering softwares
+- 💞️ I’m looking to collaborate on intelligent construction 
+- 📫 How to reach me you can find me in Linkedin
 
 <!---
 Bowencth/Bowencth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
